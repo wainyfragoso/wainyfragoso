@@ -24,5 +24,5 @@
 
 
 <div>  
-<img align="center" alt="Wainy" height="400" width="400" src="https://cdn.picrew.me/shareImg/org/202309/338224_mS8DXvIw.png">
+<img align="center" alt="Wainy" height="330" width="330" src="https://cdn.picrew.me/shareImg/org/202309/338224_mS8DXvIw.png">
 </div>
