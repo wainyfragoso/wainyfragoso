@@ -1,6 +1,6 @@
 ### Hello, world!
 - 👽 Meu nome é Wainy.
-- 💻 Sou estudante do primeiro período de Análise e Desenvolvimento de Sistemas.
+- 💻 Sou estudante do segundo período de Análise e Desenvolvimento de Sistemas.
 
 
 <div style="display: inline_block"><br>
@@ -23,8 +23,3 @@
 <a href="https://www.linkedin.com/in/wainyfragoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div> 
 
-
-
-<div>  
-<img align="center" alt="Wainy" height="330" width="330" src="https://cdn.picrew.me/shareImg/org/202309/338224_mS8DXvIw.png">
-</div>
