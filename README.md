@@ -1,6 +1,6 @@
 ### Hello, world!
 - 👽 Meu nome é Wainy.
-- 💻 Sou estudante do terceiro período de Análise e Desenvolvimento de Sistemas.
+- 💻 Sou estudante do quinto período de Análise e Desenvolvimento de Sistemas.
 
 
 <div style="display: inline_block"><br>
